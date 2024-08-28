@@ -148,12 +148,8 @@ user면 main페이지로 매핑
 
   
 # 프론트
-
-- System Architecture
-  ![System Architecture](./images/systemArchitecture.png)
-
-- Task Flow
-  ![Task Flow](./images/taskFlow.png)
+![image](https://github.com/user-attachments/assets/7724d28c-b08e-43c1-8b63-ab46d100347c)
+![image](https://github.com/user-attachments/assets/61bfd05a-344a-411e-99d7-9eefb0a986b4)
 
 <br/>
 ---
@@ -179,11 +175,11 @@ user면 main페이지로 매핑
 - chore (프로그램 실행과 관련 없는 작업, 빌드 시스템, 패키지 매니저 설정 등)
   <br/>
 
----
+
 
 <br/>
 
-# TO DO LIST
+# 추후 개발 기능정의서
 
 - 개인화된 운동 프로그램 추천
 
@@ -217,25 +213,25 @@ user면 main페이지로 매핑
 <table>
     <thead>
         <tr>
-            <th colspan="5">SmartFit</th>
+            <th colspan="5">SmartFit Makers</th>
         </tr>
     </thead>
     <tbody>
         <tr>
           <tr>
-            <td align='center'><a href="https:/github.com/iksang0110"><img src="./images/iksang.png" width="100" height="100"></td>
-            <td align='center'><a href="https:/github.com/Takeetnez"><img src="./images/ez.png" width="100" height="100"></td>
+            <td align='center'><img src="https://github.com/user-attachments/assets/fc4956d2-c46e-4316-884a-979c5c90ac2d" width="100" height="100"></td>
+            <td align='center'><img src="https://github.com/user-attachments/assets/44394c72-19e2-4d84-87a2-d6523da9a28a" width="100" height="100"></td>
             <td align='center'><a href="https:/github.com/Suuuuuuuuuumin"><img src="./images/sumin.png" width="100" height="100"></td>
           </tr>
           <tr>
-            <td align='center'>정익상</td>
-            <td align='center'>최이지</td>
-            <td align='center'>오수민</td>
+            <td align='center'><a href="https:/github.com/iksang0110">정익상</a></td>
+            <td align='center'><a href="https:/github.com/Takeeatez">최이지</a></td>
+            <td align='center'><a href="">오수민</a></td>
           </tr>
           <tr>
-            <td>담당 : 모델 구축<br/>이메일 : wjddlrtkd0110@naver.com<br/>깃허브 : dlrtkd0110</td>
-            <td>최이지</td>
-            <td>담당 : Frontend<br/>이메일 : osm374@gmail.com <br/>깃허브 : Suuuuuuuuuumin</td>
+            <td>AI 파이썬 모델 구축<br/>Contact: wjddlrtkd0110@naver.com<br/>Github : dlrtkd0110</td>
+            <td>Backend</br>Contact : choeiji13@gmail.com Github : Takeeatez</td>
+            <td>Frontend<br/>Contact : osm374@gmail.com <br/>Github : Suuuuuuuuuumin</td>
           </tr>
         </tr>
     </tbody>
