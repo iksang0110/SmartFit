@@ -219,8 +219,7 @@ user면 main페이지로 매핑
     <tbody>
         <tr>
           <tr>
-            <td align='center'><a href="https:/github.com/iksang0110"><img src="![Uploading KakaoTalk_Photo_2024-08-28-21-10-59.png…]()
-" width="100" height="100"></td>
+            <td align='center'><a href="https:/github.com/iksang0110"><img src="./images/iksang.png" width="100" height="100"></td>
             <td align='center'><a href="https:/github.com/Takeetnez"><img src="./images/ez.png" width="100" height="100"></td>
             <td align='center'><a href="https:/github.com/Suuuuuuuuuumin"><img src="./images/sumin.png" width="100" height="100"></td>
           </tr>
