@@ -16,7 +16,15 @@
 </div>
 </br>
 
-![image](https://github.com/user-attachments/assets/06f68d38-c998-4b1e-999e-2f42c4954026)
+## 시연 영상 (Demo Video)
+
+<div align="center">
+    <video width="600" controls>
+        <source src="./videos/demo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div>
+
 
 <strong>스마트핏</strong>, 언제 어디서든 함께하세요! Smart Fit, stay with us anytime, anywhere!
 </br></br></br></br>
