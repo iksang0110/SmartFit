@@ -152,9 +152,9 @@ user면 main페이지로 매핑
 ![image](https://github.com/user-attachments/assets/61bfd05a-344a-411e-99d7-9eefb0a986b4)
 
 <br/>
----
 
 <br/>
+
 
 # Branch Rule
 
@@ -230,7 +230,7 @@ user면 main페이지로 매핑
           </tr>
           <tr>
             <td>AI 파이썬 모델 구축<br/>Contact: wjddlrtkd0110@naver.com<br/>Github : dlrtkd0110</td>
-            <td>Backend</br>Contact : choeiji13@gmail.com Github : Takeeatez</td>
+            <td>Backend</br>Contact : choeiji13@gmail.com<br/> Github : Takeeatez</td>
             <td>Frontend<br/>Contact : osm374@gmail.com <br/>Github : Suuuuuuuuuumin</td>
           </tr>
         </tr>
