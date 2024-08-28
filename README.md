@@ -22,14 +22,12 @@
 
 ## 왜 스마트핏인가 ? Why SmartFit ? 
 
-## 시연 영상 (Demo Video)
+## 시연 영상 (
 
-<div align="center">
-    <video width="600" controls>
-        <source src="videos" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
-</div>
+Uploading demo.mp4…
+
+Demo Video)
+
 
 건강을 유지하고자 헬스장을 방문하지만, 헬스장은 시간 제약과 비싼 비용으로 발걸음이 돌아서게 된다. 특히 현대인들에게는 더더욱 말이다. 집에서는 올바르지 못한 자세로 운동이 되는지 마는지 모르는 경우가 태반이다.
 하지만 언제 어디서든 운동을 할 수 있다면 말이 다르지 않을까? 스마트핏은 이런 점을 분석하여 개발했다.
@@ -236,7 +234,7 @@ user면 main페이지로 매핑
           </tr>
           <tr>
             <td>담당 : 모델 구축<br/>이메일 : wjddlrtkd0110@naver.com<br/>깃허브 : dlrtkd0110</td>
-            <td>최이지</td>
+            <td>담당 : 백엔드 구축 </td>
             <td>담당 : Frontend<br/>이메일 : osm374@gmail.com <br/>깃허브 : Suuuuuuuuuumin</td>
           </tr>
         </tr>
