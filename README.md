@@ -23,7 +23,7 @@
 
 ## 왜 스마트핏인가 ? Why SmartFit ? 
 
-![image](https://github.com/user-attachments/assets/c68c3652-b38d-408c-ae55-8d42fdcea77d)
+https://github.com/user-attachments/assets/46146f09-98d0-4285-8f9c-3a7eaae4cead
 
 건강을 유지하고자 헬스장을 방문하지만, 헬스장은 시간 제약과 비싼 비용으로 발걸음이 돌아서게 된다. 특히 현대인들에게는 더더욱 말이다. 집에서는 올바르지 못한 자세로 운동이 되는지 마는지 모르는 경우가 태반이다.
 하지만 언제 어디서든 운동을 할 수 있다면 말이 다르지 않을까? 스마트핏은 이런 점을 분석하여 개발했다.
@@ -31,7 +31,11 @@
 스마트핏은 언제 어디서나 사용자가 달성하고자 하는 운동 목표를 설정하고 사전 학습된 모델을 통해 사용자 자세의 미세한 오류를 자동으로 인식하고, AI를 통해 즉각적으로 올바른 자세를 교정해준다. 
 또한 사용자들의 운동 동기를 지속적으로 고취시키고 성과를 극대화할 수 있도록 지원한다.
 
-Everyone visit the gym to stay healthy, but the gym turns around due to time constraints and high costs, especially for modern people. Most people at home don't know if they exercise in the wrong position.
+Everyone visit the gym to stay healthy, but the gym turns around due to time constraints and high costs, especially for modern people. Most people at home do
+
+
+
+n't know if they exercise in the wrong position.
 But wouldn't it be different if you could exercise anytime, anywhere? Smart Fit was developed by analyzing these points.
 
 With SmartFit, we set the exercise goals that users want to achieve anytime, anywhere, automatically recognize microscopic errors in the user's posture through pre-trained models, and propose the correct posture immediately through AI. 
