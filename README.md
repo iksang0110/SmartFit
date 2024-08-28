@@ -23,6 +23,8 @@
 
 ## 왜 스마트핏인가 ? Why SmartFit ? 
 
+![image](https://github.com/user-attachments/assets/c68c3652-b38d-408c-ae55-8d42fdcea77d)
+
 건강을 유지하고자 헬스장을 방문하지만, 헬스장은 시간 제약과 비싼 비용으로 발걸음이 돌아서게 된다. 특히 현대인들에게는 더더욱 말이다. 집에서는 올바르지 못한 자세로 운동이 되는지 마는지 모르는 경우가 태반이다.
 하지만 언제 어디서든 운동을 할 수 있다면 말이 다르지 않을까? 스마트핏은 이런 점을 분석하여 개발했다.
 
@@ -66,10 +68,8 @@ It also continuously inspires users' motivation to exercise and helps them maxim
 <br>
 
 # 모델 Model
+![image](https://github.com/user-attachments/assets/cc6db52d-a5d1-40ad-858b-7538a9a203a1)
 
-- Model Architecture
-
-  ![Model Architecture](./images/modelArchitecture.png)
 
 
 <br/>
@@ -126,38 +126,32 @@ localhost:8080로 접속하면 서비스를 이용할 수 있습니다.
 
 ## API 엔드포인트 
 
+- /admin = admin페이지로 매핑
+- /admin/addExercise = 운동추가, 추가 후 관리자 대시보드로 리다이렉트
+- /admin/updateExercise/{fitid} = 운동수정
+- /admin/deleteExercise/{fitid} = 운동 삭제
 
-/admin = admin페이지로 매핑
-/admin/addExercise = 운동추가, 추가 후 관리자 대시보드로 리다이렉트
-/admin/updateExercise/{fitid} = 운동수정
-/admin/deleteExercise/{fitid} = 운동 삭제
+- /exercise = exerciseForm으로 이동
+- /exerciseResult = Flask 서버와 연동
 
-/exercise = exerciseForm으로 이동
-/exerciseResult = Flask 서버와 연동
-
-/, /test = test 페이지로 매핑
-/login = 로그인 기능, enumType이 Admin이면 admin페이지,
+- /, /test = test 페이지로 매핑
+- /login = 로그인 기능, enumType이 Admin이면 admin페이지,
 user면 main페이지로 매핑
-/register = 회원가입 기능
-/myPage = 사용자 이름, 가입날짜 등 유저정보 확인
-/aboutUs = 페이지소개
-/setting = 운동 설정하는 페이지
+- /register = 회원가입 기능
+- /myPage = 사용자 이름, 가입날짜 등 유저정보 확인
+- /aboutUs = 페이지소개
+- /setting = 운동 설정하는 페이지
+
+  
 # 프론트
 
 - System Architecture
-
   ![System Architecture](./images/systemArchitecture.png)
 
 - Task Flow
-
   ![Task Flow](./images/taskFlow.png)
 
-- Screen Flow
-
-  ![Screen Flow](./images/screenFlow.png)
 <br/>
-
-
 ---
 
 <br/>
