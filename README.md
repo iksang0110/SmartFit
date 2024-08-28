@@ -16,22 +16,20 @@
 </div>
 </br>
 
-## 시연 영상 (Demo Video)
-
-<div align="center">
-    <video width="600" controls>
-        <source src="./videos/demo.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
-</div>
-
 
 <strong>스마트핏</strong>, 언제 어디서든 함께하세요! Smart Fit, stay with us anytime, anywhere!
 </br></br></br></br>
 
 ## 왜 스마트핏인가 ? Why SmartFit ? 
 
-![image](https://github.com/user-attachments/assets/c68c3652-b38d-408c-ae55-8d42fdcea77d)
+## 시연 영상 (Demo Video)
+
+<div align="center">
+    <video width="600" controls>
+        <source src="videos" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div>
 
 건강을 유지하고자 헬스장을 방문하지만, 헬스장은 시간 제약과 비싼 비용으로 발걸음이 돌아서게 된다. 특히 현대인들에게는 더더욱 말이다. 집에서는 올바르지 못한 자세로 운동이 되는지 마는지 모르는 경우가 태반이다.
 하지만 언제 어디서든 운동을 할 수 있다면 말이 다르지 않을까? 스마트핏은 이런 점을 분석하여 개발했다.
