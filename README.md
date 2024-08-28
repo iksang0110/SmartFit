@@ -44,35 +44,24 @@ It also continuously inspires users' motivation to exercise and helps them maxim
 ### 스쿼트: 잘못된 자세 vs 올바른 자세
 
 - **잘못된 스쿼트 자세 (Squat Incorrect Posture)**
-
-    <div align="center">
-        <img src="./images/SquatX1.jpg" alt="Squat Incorrect 1" width="400">
-        <img src="./images/SquatX2.jpg" alt="Squat Incorrect 2" width="400">
-        <img src="./images/SquatX3.jpg" alt="Squat Incorrect 3" width="400">
-    </div>
+![image](https://github.com/user-attachments/assets/a6c4a819-4efe-4900-ac06-44e6fc5b0507)
+![image](https://github.com/user-attachments/assets/cd97cb13-b2bf-4b9d-a875-7dbca3943051)
+![image](https://github.com/user-attachments/assets/1ed0eae0-9763-4b18-a2f3-19455ccd80cb)
+</br>
 
 - **올바른 스쿼트 자세 (Squat Correct Posture)**
-
-    <div align="center">
-        <img src="./images/SquatO.jpg" alt="Squat Correct" width="400">
-    </div>
+![image](https://github.com/user-attachments/assets/387a3e4d-0861-45c5-a519-d1179415ba25)
+</br>
 
 ### 푸쉬업: 잘못된 자세 vs 올바른 자세
 
 - **잘못된 푸쉬업 자세 (Push-up Incorrect Posture)**
-
-    <div align="center">
-        <img src="./images/Push-upX1.jpg" alt="Push-up Incorrect 1" width="400">
-        <img src="./images/Push-upX2.jpg" alt="Push-up Incorrect 2" width="400">
-        <img src="./images/Push-upX3.jpg" alt="Push-up Incorrect 3" width="400">
-        <img src="./images/Push-upX4.jpg" alt="Push-up Incorrect 4" width="400">
-    </div>
+![image](https://github.com/user-attachments/assets/3b5cdee4-8f78-4413-b7f0-bae9f3db8905)
+![image](https://github.com/user-attachments/assets/f92cbf2a-e7b3-4df2-a862-02fd9b01b6a5)
+</br>
 
 - **올바른 푸쉬업 자세 (Push-up Correct Posture)**
-
-    <div align="center">
-        <img src="./images/Push-upO.jpg" alt="Push-up Correct" width="400">
-    </div>
+![image](https://github.com/user-attachments/assets/c44a95e7-1f56-4252-9962-4b227761081c)
 
 <br>
 
@@ -90,15 +79,11 @@ It also continuously inspires users' motivation to exercise and helps them maxim
 ## 파일 구조 File Structure
 ![backend drawio](https://github.com/user-attachments/assets/0bea7117-adc3-4233-99fa-70ee42885fad)
 
-
-## 프로젝트 설치 방법 How to Project Install
-
-
-
+</br></br>
 ## 프로젝트 실행 방법 How to Project Apply
 </br>
 
-## Flask Server 실행
+### Flask Server 실행
 
 1. 파이썬 설치 유무를 확인합니다.
 
@@ -125,20 +110,38 @@ cd model/web_test
 python app.py
 ```
 
-## SpringBoot 서버 실행방법
+### SpringBoot 서버 실행방법
 
 1. 파일 내에 있는 build.gralde의 코끼리 버튼이나, 직접 실행하여 build를 완료합니다.
 
 
 2. Applcation을 실행합니다.
 
-## 로컬 브라우저 방문
+### 로컬 브라우저 방문
 
 
 localhost:8080로 접속하면 서비스를 이용할 수 있습니다.
 
 <br/>
 
+## API 엔드포인트 
+
+
+/admin = admin페이지로 매핑
+/admin/addExercise = 운동추가, 추가 후 관리자 대시보드로 리다이렉트
+/admin/updateExercise/{fitid} = 운동수정
+/admin/deleteExercise/{fitid} = 운동 삭제
+
+/exercise = exerciseForm으로 이동
+/exerciseResult = Flask 서버와 연동
+
+/, /test = test 페이지로 매핑
+/login = 로그인 기능, enumType이 Admin이면 admin페이지,
+user면 main페이지로 매핑
+/register = 회원가입 기능
+/myPage = 사용자 이름, 가입날짜 등 유저정보 확인
+/aboutUs = 페이지소개
+/setting = 운동 설정하는 페이지
 # 프론트
 
 - System Architecture
