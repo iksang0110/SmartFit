@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ko" xmlns:th="http://www.thymeleaf.org" xmlns="http://www.w3.org/1999/html">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Login</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap" rel="stylesheet">
+    <link th:href="@{/styles/aboutUs.css}" rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul>
+                <div>
+                    <li><a th:href="@{main}" class="SmartFit">SmartFit</a></li>
+                </div>
+            </ul>
+        </nav>
+    </header>
+    <div class="hero">
+        <div class="overlay"></div>
+        <div class="login-container">
+            <div style="text-align: left;">
+                <h1>About Us</h1>
+                <p>SmartFit은 언제 어디서든 구애받지 않고 <bold>Smart</bold>하면서 사용자에게 'Fit'한
+                </br>'Fitness'를 추구하고자 기획되었습니다.</br></br>SmartFit provides smart and 'Fit' services at any time regardless of the user.
+                    </br>We plan to focus on ‘fitness’ in the future.</p>
+            </div>
+            <button type="submit"><a th:href="@{register}" class="join">join us, it's your turn!</a></button>
+        </div>
+    </div>
+</body>
+
+</html>
